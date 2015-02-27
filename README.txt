@@ -1,3 +1,5 @@
-Aujourd'hui, je teste git et github. Donc, j'écris ma première ligne à parti de github!
+Aujourd'hui, je teste git et github. Donc, j'Ã©cris ma premiÃ¨re ligne Ã  parti de github!
 
-Ensuite, je modifie le fichier localement. Je d�cide de placer des balises <html> </html>. C'est cool�!
+Ensuite, je modifie le fichier localement. Je décide de placer des balises <html> </html>. C'est cool !
+
+Je viens de me rendre compte que je dois présenter un projet. Mon objectif est de créer une page internet sur le tennis de table.
